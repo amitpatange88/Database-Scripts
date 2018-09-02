@@ -5,3 +5,5 @@ Following are the database useful scripts for dev users : <br>
 		<b>SQL-Final-String-In-Database.sql : </b> SQL Server procedure to find string in entire database.
 	</li>
 </ul>
+
+//Listed all the scripts.
